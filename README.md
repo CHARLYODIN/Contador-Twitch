@@ -20,7 +20,7 @@
 
 - [Como instalarlo](#como-instalarlo)
 
-- [desarrollador](#desarrollador)
+- [Desarrollador](#desarrollador)
 
 ## Descripcion del Proyecto
 
@@ -60,11 +60,11 @@
 
 ## Acceso al proyecto
 
-<p>Se puede acceder al [codigo](https://github.com/CHARLYODIN/Contador-Twitch) y [descargar](https://github.com/CHARLYODIN/Contador-Twitch/archive/refs/heads/main.zip) el archivo para su uso con fines educativos.</p>
+Se puede acceder al [codigo](https://github.com/CHARLYODIN/Contador-Twitch) y [descargar}(https://github.com/CHARLYODIN/Contador-Twitch/archive/refs/heads/main.zip) el archivo para su uso con fines educativos.
 
 ## Como instalarlo
 
-<p>La instalacion, configuracion y personalizacion de este contador tiene un costo y se puede modificar a gusto del cliente, puedes contactarme en cualquiera de mis [redes.](https://linktr.ee/CHARLYODIN)</p>
+La instalacion, configuracion y personalizacion de este contador tiene un costo y se puede modificar a gusto del cliente, puedes contactarme en cualquiera de mis [redes](https://linktr.ee/CHARLYODIN).
 
 ## Desarrollador
 
