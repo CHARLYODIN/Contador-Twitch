@@ -64,7 +64,7 @@
 
 ## Como instalarlo
 
-<p>La instalacion, configuracion y personalizacion de este contador tiene un costo y se puede modificar a gusto del cliente, puedes contactarme en cualquiera de mis [redes](https://linktr.ee/CHARLYODIN).</p>
+<p>La instalacion, configuracion y personalizacion de este contador tiene un costo y se puede modificar a gusto del cliente, puedes contactarme en cualquiera de mis [redes.](https://linktr.ee/CHARLYODIN)</p>
 
 ## Desarrollador
 
