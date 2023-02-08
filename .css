@@ -1,0 +1,30 @@
+@import url('https://cdn.streamelements.com/scripts/animate.min.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.awsome-text-container {
+    font-size: 42px;
+    font-weight: bold;
+}
+.main-container{
+  background: url(https://cdn.discordapp.com/attachments/989554678050222160/1069724713825337484/Fondo.jpg);
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: 100%;
+}
+.TxT{
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 65px;
+  padding-top: 50px;
+ 
+   text-shadow:
+   -1px -1px 0 #000000,  
+    1px -1px 0 #000000,
+   -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+}
