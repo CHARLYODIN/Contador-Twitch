@@ -60,7 +60,7 @@
 
 ## Acceso al proyecto
 
-<p>Se puede acceder al [codigo]() y [descargar]() el archivo para su uso con fines educativos.</p>
+<p>Se puede acceder al [codigo](https://github.com/CHARLYODIN/Contador-Twitch) y [descargar](https://github.com/CHARLYODIN/Contador-Twitch/archive/refs/heads/main.zip) el archivo para su uso con fines educativos.</p>
 
 ## Como instalarlo
 
